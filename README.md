@@ -1,2 +1,6 @@
 # Historical places
- place
+HAMPI,
+CHITHRADURGA FORT,
+AIHOLE,
+PATTADAKAL,
+RAJASEAT ETC
